@@ -1,2 +1,3 @@
 # background-generator
-generates random or selected background gradient and displays CSS background property
+## generates background gradient with two colors, random or selected. 
+## displays CSS background property.
